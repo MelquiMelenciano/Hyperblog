@@ -9,9 +9,5 @@ Todo lo puedo en Yeshua que me fortalece
 *Tener a mis padres cerca de mi.
 *Tener alimento para comer y ropa para vestir.
 *Tengo la oportunidad de trabajar.
-<<<<<<< HEAD
-*Tengo la posibilidad de ver, escuchar y respirar.
-=======
-*Tengo la posibilidad de ver, escuchar y respirar.
 *Dios me sostiene cada dia y me bendice.
->>>>>>> readme-mejorado
+
